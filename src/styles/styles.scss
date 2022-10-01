@@ -1,0 +1,26 @@
+.loading {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  color: #0099ff;
+  text-transform: uppercase;
+}
+
+.error {
+  text-align: center;
+  color: crimson;
+  font-size: 1.2rem;
+}
+
+.posts {
+  .title {
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #080e13;
+    margin: 10px;
+    border-bottom: 1px solid #0099ff;
+    border-radius: 6px;
+    padding: 6px;
+  }
+}
